@@ -1,0 +1,26 @@
+---
+title: "What is the JASA Reproducibility Initiative?"
+about:
+  template: marquee
+  image: img/asa_logo.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jasa-acs
+---
+
+In July 2016, the JASA Reproducibility Initiative was introduced, which aimed to increase the reproducibility of manuscripts published in JASA Applications and Case Studies (ACS). For example, in the first half of 2016, **less than 20 percent** of papers published in JASA ACS provided any supporting code or data that would enable reproduction of their results.
+
+In 2021, the [initiative celebrated its five-year anniversary](https://magazine.amstat.org/blog/2021/08/01/jasa-5-years-on) and expanded the initiative to include JASA Theory and Methods manuscripts. 
+
+As of September 1, 2021, all original research manuscripts submitted to JASA undergoes a reproducibility review with authors required to provide their reproducibility materials when invited to revise their initial submission.
+
+Code for published papers are made [available in GitHub repositories](https://github.com/jasa-acs). 
+
+## The Team 
+
+The initiative is led by the lean, but mighty [JASA Associate Editors for Reproducibility](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=uasa20) (AERs). 
+
+## The Guide 
+
+The [JASA Reproducibility Guide](https://jasa-acs.github.io/repro-guide) provides guidance to both authors of manuscripts being submitted to JASA, but also guidance for the AERs who carry out the reproducibility review. 
