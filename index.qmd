@@ -7,7 +7,7 @@ title: "Editor-Selected JASA Reproducibility Award"
 #| fig-width: 1
 #| fig-align: "center"
 #| echo: false
-knitr::include_graphics("img/imgfile.png")
+knitr::include_graphics("img/jasa_img.png")
 ```
 
 
@@ -16,7 +16,7 @@ knitr::include_graphics("img/imgfile.png")
 The Editor-Selected JASA Reproducibility Award, established in 2022 by the [JASA Associate Editors of Reproducibility (AERs)](about.qmd), aims to recognize outstanding papers from *JASA Applications and Case Studies* (ACS) or *JASA Theory and Methods* (TM) in terms of their computational reproducibility. 
 This award will evaluate the code, data, and the workflow to reproduce the work presented in the paper as part of all invited revisions to [*Journal of the American Statistical Association*](https://www.tandfonline.com/journals/uasa20) (*JASA*). 
 
-Up to three papers are selected every year by the AERs and an award is presented to the authors during the annual Joint Statistical Meetings (JSM) the following year at the JASA session where editors invite individuals to present their work. 
+Up to three papers are selected every year by the AERs and an award is presented to the authors during the annual Joint Statistical Meetings (JSM) the following year at Computing and Graphics Joint Section Meeting. 
 
 Each award comes with a $500 honorarium. 
 
@@ -33,13 +33,27 @@ This award aims to encourage computational reproducibility efforts in the statis
 # Process and Criteria
 
 1. The award amounts to US $500.
-2. Criteria for nomination include 
+2. Criteria for eligibility of the award include 
 
-    - All papers that are accepted into *JASA* by December 15 are eligible for the award in the following year at JSM. 
-    - In spring before JSM, the AERs will select the winners from papers accepted into JASA the previous year (e.g. Jan 1 - Dec 31). 
-    - AERs will notify the winners by May.
+    - All papers that are accepted into *JASA* by December 31 are eligible for the award in the following year at JSM. 
+    - Each AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.
+    
+3. Process for selection of the award: 
+
+    - In spring before JSM, the AERs meet to discuss all nominated papers from the previous year (e.g. Jan 1 - Dec 31). 
+    - Using the pool of nominated papers, the AERs will use a ranked-choice voting (RCV) system where each AER ranks nominated papers. 
+        - If a nominated paper wins the majority of first-preference votes, the paper will be awarded. 
+        - If no nominated paper wins a majority of first-preference votes, the nominated paper with the fewest first-preference votes is eliminated. 
+        - First preference votes for the failed nominated paper are eliminated, lifting the second preference choices. 
+        - A new tally is conducted to determine whether any nominated paper has won the majority of the adjusted votes. 
+        - The process is repeated until a nominated paper wins an outright majority. 
+        - Nominated papers with the second and third largest preferences will be awarded in a similar way.
+ 
+4. Post-selection award process: 
+
+    - AERs will notify the winners by May before JSM.
     - The award would be presented at JSM in July or August. 
-    - The check will be mailed to the first author of the winning publications. 
+    - The check will be mailed to the first author of the winning publications.
     - Papers from current AERs are not eligible to receive the award. 
 
 
