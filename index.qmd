@@ -36,12 +36,12 @@ This award aims to encourage computational reproducibility efforts in the statis
 2. Criteria for eligibility of the award include 
 
     - All papers that are accepted into *JASA* by December 31 are eligible for the award in the following year at JSM. 
-    - Each AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.
     
 3. Process for selection of the award: 
 
-    - In spring before JSM, the AERs meet to discuss all nominated papers from the previous year (e.g. Jan 1 - Dec 31). 
-    - Using the pool of nominated papers, the AERs will use a ranked-choice voting (RCV) system where each AER ranks nominated papers. 
+    - Each AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.
+    - In the spring before JSM, the AERs will meet to discuss all nominated papers from the previous year (e.g. Jan 1 - Dec 31) and establish criteria for comparing the nominated papers. The AERs may remove papers from the candidate pool by consensus at this stage.
+    - Following the discussion, the AERs will use a ranked-choice voting (RCV) system where each AER ranks the pool of candidate papers.
         - If a nominated paper wins the majority of first-preference votes, the paper will be awarded. 
         - If no nominated paper wins a majority of first-preference votes, the nominated paper with the fewest first-preference votes is eliminated. 
         - First preference votes for the failed nominated paper are eliminated, lifting the second preference choices. 
