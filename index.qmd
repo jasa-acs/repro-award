@@ -32,12 +32,11 @@ This award aims to encourage computational reproducibility efforts in the statis
 
 # Process and Criteria
 
-1. The award amounts to US $500.
-2. Criteria for eligibility of the award include 
+1. Criteria for eligibility of the award include 
 
     - All papers that are accepted into *JASA* by December 31 are eligible for the award in the following year at JSM. 
     
-3. Process for selection of the award: 
+2. Process for selection of the award: 
 
     - Each AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.
     - In the spring before JSM, the AERs will meet to discuss all nominated papers from the previous year (e.g. Jan 1 - Dec 31) and establish criteria for comparing the nominated papers. The AERs may remove papers from the candidate pool by consensus at this stage.
@@ -49,11 +48,11 @@ This award aims to encourage computational reproducibility efforts in the statis
         - The process is repeated until a nominated paper wins an outright majority. 
         - Nominated papers with the second and third largest preferences will be awarded in a similar way.
  
-4. Post-selection award process: 
+3. Post-selection award process: 
 
     - AERs will notify the winners by May before JSM.
     - The award would be presented at JSM in July or August. 
-    - The check will be mailed to the first author of the winning publications.
+    - Authors of each winning publication will be asked to decide how to split the honorarium.
     - Papers from current AERs are not eligible to receive the award. 
 
 
