@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Editor-Selected JASA Reproducibility Award"
+  title: "JASA Reproducibility Award"
   navbar:
     right:
       - about.qmd
