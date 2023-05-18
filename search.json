@@ -4,14 +4,14 @@
     "href": "awardees.html",
     "title": "JASA Reproducibility Awardees",
     "section": "",
-    "text": "On behalf of the Journal of the American Statistical Association (JASA), congratulations to the recipients of the JASA Reproducibility Award!\nThese awards are selected by the JASA Associate Editors of Reproducibility (AERs). For more information about these award, the purpose and process is described here."
+    "text": "On behalf of the Journal of the American Statistical Association (JASA), congratulations to the recipients of the JASA Reproducibility Award! 🏅\nThese awards are selected by the JASA Associate Editors of Reproducibility (AERs) and a description of the JASA Reproducibility Award is described here."
   },
   {
     "objectID": "awardees.html#section",
     "href": "awardees.html#section",
     "title": "JASA Reproducibility Awardees",
     "section": "2023",
-    "text": "2023\n\n🏅 Lucy L. Gao, Jacob Bien, Daniela Witten (2022). Selective Inference for Hierarchical Clustering, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2116331\n\nR software package: http://lucylgao.com/clusterpval\nCode to reproduce results: https://github.com/lucylgao/clusterpval-experiments\n\n🏅 Cecilia Balocchi, Sameer K. Deshpande, Edward I. George, Shane T. Jensen (2023). Crime in Philadelphia: Bayesian Clustering with Particle Optimization, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2156348\n\nR software package: https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT\nCode to reproduce results: https://github.com/cecilia-balocchi/particle-optimization"
+    "text": "2023\n\nLucy L. Gao, Jacob Bien, Daniela Witten (2022). Selective Inference for Hierarchical Clustering, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2116331\n\nR software package: http://lucylgao.com/clusterpval\nCode to reproduce results: https://github.com/lucylgao/clusterpval-experiments\n\nCecilia Balocchi, Sameer K. Deshpande, Edward I. George, Shane T. Jensen (2023). Crime in Philadelphia: Bayesian Clustering with Particle Optimization, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2156348\n\nR software package: https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT\nCode to reproduce results: https://github.com/cecilia-balocchi/particle-optimization"
   },
   {
     "objectID": "index.html",
