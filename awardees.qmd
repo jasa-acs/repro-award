@@ -1,0 +1,21 @@
+---
+title: "JASA Reproducibility Awardees"
+---
+
+On behalf of the _Journal of the American Statistical Association_ (JASA), congratulations to the recipients of the JASA Reproducibility Award! 
+
+These awards are selected by the [JASA Associate Editors of Reproducibility (AERs)](about.qmd). For more information about these award, the purpose and process is described [here](index.qmd).
+
+
+## 2023
+
+- 🏅 Lucy L. Gao, Jacob Bien, Daniela Witten (2022). Selective Inference for Hierarchical Clustering, _Journal of the American Statistical Association_, DOI: [10.1080/01621459.2022.2116331](https://doi.org/10.1080/01621459.2022.2116331) 
+
+  - R software package: [http://lucylgao.com/clusterpval](http://lucylgao.com/clusterpval)
+  - Code to reproduce results: [https://github.com/lucylgao/clusterpval-experiments](https://github.com/lucylgao/clusterpval-experiments) 
+
+- 🏅 Cecilia Balocchi, Sameer K. Deshpande, Edward I. George, Shane T. Jensen (2023). Crime in Philadelphia: Bayesian Clustering with Particle Optimization, _Journal of the American Statistical Association_, DOI: [10.1080/01621459.2022.2156348](https://doi.org/10.1080/01621459.2022.2156348)
+
+  - R software package: [https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT](https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT)
+  - Code to reproduce results: [https://github.com/cecilia-balocchi/particle-optimization](https://github.com/cecilia-balocchi/particle-optimization)	
+
