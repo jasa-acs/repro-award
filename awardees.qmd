@@ -2,7 +2,7 @@
 title: "JASA Reproducibility Awardees"
 ---
 
-On behalf of the _Journal of the American Statistical Association_ (JASA), congratulations to the recipients of the JASA Reproducibility Award! 🏅
+The JASA Editorial Board and Associate Editors for Reproducibility would like to congratulate the winners on their exceptional contributions to computational reproducibility within the statistical field! 🏅
 
 These awards are selected by the [JASA Associate Editors of Reproducibility (AERs)](about.qmd) and a description of the JASA Reproducibility Award is described [here](index.qmd).
 

@@ -11,7 +11,7 @@ knitr::include_graphics("img/jasa_img.png")
 
 # Overview
 
-The JASA Reproducibility Award, established in 2022 by the [JASA Editorial board](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=uasa20) and implemented by the [JASA Associate Editors of Reproducibility (AERs)](about.qmd), aims to recognize outstanding papers from *JASA Applications and Case Studies* (ACS) or *JASA Theory and Methods* (TM) in terms of their computational reproducibility. This award will evaluate the code, data, and the workflow to reproduce the work presented in the paper as part of all invited revisions to [*Journal of the American Statistical Association*](https://www.tandfonline.com/journals/uasa20) (*JASA*).
+The JASA Reproducibility Award, established in 2023 by the [JASA Editorial board](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=uasa20) and implemented by the [JASA Associate Editors of Reproducibility (AERs)](about.qmd), aims to recognize outstanding papers from *JASA Applications and Case Studies* (ACS) or *JASA Theory and Methods* (TM) in terms of their computational reproducibility. This award will evaluate the code, data, and the workflow to reproduce the work presented in the paper as part of all invited revisions to [*Journal of the American Statistical Association*](https://www.tandfonline.com/journals/uasa20) (*JASA*).
 
 Up to three papers are selected every year by the AERs and an award is presented to the authors during the annual Joint Statistical Meetings (JSM) the following year at Computing and Graphics Joint Section Meeting.
 
