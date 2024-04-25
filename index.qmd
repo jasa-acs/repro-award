@@ -36,8 +36,8 @@ This award aims to encourage computational reproducibility efforts in the statis
 2.  Process for selection of the award:
 
     -   Each AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.
-    -   In the spring before JSM, the AERs will meet to discuss all nominated papers from the previous year (e.g. Jan 1 - Dec 31) and establish criteria for comparing the nominated papers. The AERs may remove papers from the candidate pool by consensus at this stage.
-    -   Following the discussion, the AERs will use a standard ranked-choice voting (RCV) system where we will stop at the top three candidates.
+    -   In the spring before JSM, the AERs will eestablish criteria for comparing the nominated papers and each nominated paper will be rated by a randomly chosen subset of the AERs. 
+    -   The AERs will determine the winners by consensus after discussion of top-rated papers.
 
 3.  Post-selection award process:
 
