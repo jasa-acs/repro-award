@@ -1,1 +1,1 @@
-Sitemap: https://github.com/jasa-acs/repro-award/sitemap.xml
+Sitemap: https://jasa-acs.github.io/repro-award/sitemap.xml
