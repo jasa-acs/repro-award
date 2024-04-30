@@ -6,8 +6,9 @@ title: "JASA Reproducibility Award"
 #| fig-width: 1
 #| fig-align: "center"
 #| echo: false
-knitr::include_graphics("img/jasa_img.png")
 ```
+
+![](img/jasa_img.png){fig-alt="JASA reproducibility award logo"}
 
 # Overview
 
