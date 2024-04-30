@@ -2,7 +2,7 @@
 title: "JASA Reproducibility Award"
 ---
 
-![](img/jasa_img.png){fig-alt="JASA reproducibility award logo"}
+![](img/jasa_img.png){width=30%,fig-alt="JASA reproducibility award logo"}
 
 # Overview
 
