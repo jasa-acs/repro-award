@@ -6,6 +6,17 @@ The JASA Editorial Board and Associate Editors for Reproducibility would like to
 
 These awards are selected by the [JASA Associate Editors of Reproducibility (AERs)](about.qmd) and a description of the JASA Reproducibility Award is described [here](index.qmd).
 
+## 2024
+
+- Yabo Niu, Yang Ni, Debdeep Pati, Bani K. Mallick. (2023). Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data,  _Journal of the American Statistical Association_, DOI: [10.1080/01621459.2023.2233744](https://doi.org/10.1080/01621459.2023.2233744)
+
+  - Code to reproduce results: [https://www.tandfonline.com/doi/suppl/10.1080/01621459.2023.2233744?scroll=top](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2023.2233744)
+
+
+- Stéphane Guerrier, Christoph Kuzmics, Maria-Pia Victoria-Feser. (2024). Assessing COVID-19 Prevalence in Austria with Infection Surveys and Case Count Data as Auxiliary Information,  _Journal of the American Statistical Association_, DOI: [10.1080/01621459.2024.2313790](https://doi.org/10.1080/01621459.2024.2313790)
+
+   - R software package: [https://github.com/stephaneguerrier/pempi](https://github.com/stephaneguerrier/pempi)
+   - Code to reproduce results: [https://stephaneguerrier.github.io/pempi/articles/reproducibility.html](https://stephaneguerrier.github.io/pempi/articles/reproducibility.html)
 
 ## 2023
 
