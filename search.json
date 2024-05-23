@@ -10,6 +10,13 @@
     "objectID": "awardees.html#section",
     "href": "awardees.html#section",
     "title": "JASA Reproducibility Awardees",
+    "section": "2024",
+    "text": "2024\n\nYabo Niu, Yang Ni, Debdeep Pati, Bani K. Mallick. (2023). Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data, Journal of the American Statistical Association, DOI: 10.1080/01621459.2023.2233744\n\nCode to reproduce results: https://www.tandfonline.com/doi/suppl/10.1080/01621459.2023.2233744?scroll=top\n\nStéphane Guerrier, Christoph Kuzmics, Maria-Pia Victoria-Feser. (2024). Assessing COVID-19 Prevalence in Austria with Infection Surveys and Case Count Data as Auxiliary Information, Journal of the American Statistical Association, DOI: 10.1080/01621459.2024.2313790\n\nR software package: https://github.com/stephaneguerrier/pempi\nCode to reproduce results: https://stephaneguerrier.github.io/pempi/articles/reproducibility.html"
+  },
+  {
+    "objectID": "awardees.html#section-1",
+    "href": "awardees.html#section-1",
+    "title": "JASA Reproducibility Awardees",
     "section": "2023",
     "text": "2023\n\nLucy L. Gao, Jacob Bien, Daniela Witten (2022). Selective Inference for Hierarchical Clustering, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2116331\n\nR software package: http://lucylgao.com/clusterpval\nCode to reproduce results: https://github.com/lucylgao/clusterpval-experiments\n\nCecilia Balocchi, Sameer K. Deshpande, Edward I. George, Shane T. Jensen (2023). Crime in Philadelphia: Bayesian Clustering with Particle Optimization, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2156348\n\nR software package: https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT\nCode to reproduce results: https://github.com/cecilia-balocchi/particle-optimization"
   },
