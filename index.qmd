@@ -40,3 +40,9 @@ This award aims to encourage computational reproducibility efforts in the statis
     -   The award would be presented at JSM in July or August.
     -   Authors of each winning publication will be asked to decide how to split the honorarium.
     -   Papers from current AERs are not eligible to receive the award.
+
+# Sponsors
+
+[![ASA Section on Statistical Graphics & ASA Section on Statistical Computing](https://s3.amazonaws.com/higherlogicdownload/AMSTAT/UploadedImages/77AmZV1cQeex7d5PFR2b_logo-T.jpg)](https://community.amstat.org/jointscsg-section/home)
+
+[![Posit](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg)](https://posit.co)
