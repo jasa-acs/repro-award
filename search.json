@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "awardees.html",
-    "href": "awardees.html",
-    "title": "JASA Reproducibility Awardees",
-    "section": "",
-    "text": "The JASA Editorial Board and Associate Editors for Reproducibility would like to congratulate the winners on their exceptional contributions to computational reproducibility within the statistical field! 🏅\nThese awards are selected by the JASA Associate Editors of Reproducibility (AERs) and a description of the JASA Reproducibility Award is described here."
-  },
-  {
-    "objectID": "awardees.html#section",
-    "href": "awardees.html#section",
-    "title": "JASA Reproducibility Awardees",
-    "section": "2024",
-    "text": "2024\n\nYabo Niu, Yang Ni, Debdeep Pati, Bani K. Mallick. (2023). Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data, Journal of the American Statistical Association, DOI: 10.1080/01621459.2023.2233744\n\nCode to reproduce results: https://www.tandfonline.com/doi/suppl/10.1080/01621459.2023.2233744?scroll=top\n\nStéphane Guerrier, Christoph Kuzmics, Maria-Pia Victoria-Feser. (2024). Assessing COVID-19 Prevalence in Austria with Infection Surveys and Case Count Data as Auxiliary Information, Journal of the American Statistical Association, DOI: 10.1080/01621459.2024.2313790\n\nR software package: https://github.com/stephaneguerrier/pempi\nCode to reproduce results: https://stephaneguerrier.github.io/pempi/articles/reproducibility.html"
-  },
-  {
-    "objectID": "awardees.html#section-1",
-    "href": "awardees.html#section-1",
-    "title": "JASA Reproducibility Awardees",
-    "section": "2023",
-    "text": "2023\n\nLucy L. Gao, Jacob Bien, Daniela Witten (2022). Selective Inference for Hierarchical Clustering, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2116331\n\nR software package: http://lucylgao.com/clusterpval\nCode to reproduce results: https://github.com/lucylgao/clusterpval-experiments\n\nCecilia Balocchi, Sameer K. Deshpande, Edward I. George, Shane T. Jensen (2023). Crime in Philadelphia: Bayesian Clustering with Particle Optimization, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2156348\n\nR software package: https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT\nCode to reproduce results: https://github.com/cecilia-balocchi/particle-optimization"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "What is the JASA Reproducibility Initiative?",
@@ -42,10 +21,31 @@
     "text": "The Guide\nThe JASA Reproducibility Guide provides guidance to both authors of manuscripts being submitted to JASA, but also guidance for the AERs who carry out the reproducibility review."
   },
   {
+    "objectID": "awardees.html",
+    "href": "awardees.html",
+    "title": "JASA Reproducibility Awardees",
+    "section": "",
+    "text": "The JASA Editorial Board and Associate Editors for Reproducibility would like to congratulate the winners on their exceptional contributions to computational reproducibility within the statistical field! 🏅\nThese awards are selected by the JASA Associate Editors of Reproducibility (AERs) and a description of the JASA Reproducibility Award is described here."
+  },
+  {
+    "objectID": "awardees.html#section",
+    "href": "awardees.html#section",
+    "title": "JASA Reproducibility Awardees",
+    "section": "2024",
+    "text": "2024\n\nYabo Niu, Yang Ni, Debdeep Pati, Bani K. Mallick. (2023). Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data, Journal of the American Statistical Association, DOI: 10.1080/01621459.2023.2233744\n\nCode to reproduce results: https://www.tandfonline.com/doi/suppl/10.1080/01621459.2023.2233744?scroll=top\n\nStéphane Guerrier, Christoph Kuzmics, Maria-Pia Victoria-Feser. (2024). Assessing COVID-19 Prevalence in Austria with Infection Surveys and Case Count Data as Auxiliary Information, Journal of the American Statistical Association, DOI: 10.1080/01621459.2024.2313790\n\nR software package: https://github.com/stephaneguerrier/pempi\nCode to reproduce results: https://stephaneguerrier.github.io/pempi/articles/reproducibility.html"
+  },
+  {
+    "objectID": "awardees.html#section-1",
+    "href": "awardees.html#section-1",
+    "title": "JASA Reproducibility Awardees",
+    "section": "2023",
+    "text": "2023\n\nLucy L. Gao, Jacob Bien, Daniela Witten (2022). Selective Inference for Hierarchical Clustering, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2116331\n\nR software package: http://lucylgao.com/clusterpval\nCode to reproduce results: https://github.com/lucylgao/clusterpval-experiments\n\nCecilia Balocchi, Sameer K. Deshpande, Edward I. George, Shane T. Jensen (2023). Crime in Philadelphia: Bayesian Clustering with Particle Optimization, Journal of the American Statistical Association, DOI: 10.1080/01621459.2022.2156348\n\nR software package: https://github.com/cecilia-balocchi/particle-optimization/tree/master/PARTOPT\nCode to reproduce results: https://github.com/cecilia-balocchi/particle-optimization"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "JASA Reproducibility Award",
     "section": "",
-    "text": "Overview\nThe JASA Reproducibility Award, established in 2023 by the JASA Editorial board and implemented by the JASA Associate Editors of Reproducibility (AERs), aims to recognize outstanding papers from JASA Applications and Case Studies (ACS) or JASA Theory and Methods (TM) in terms of their computational reproducibility. This award will evaluate the code, data, and the workflow to reproduce the work presented in the paper as part of all invited revisions to Journal of the American Statistical Association (JASA).\nUp to three papers are selected every year by the AERs and an award is presented to the authors during the annual Joint Statistical Meetings (JSM) the following year at Computing and Graphics Joint Section Meeting.\nEach award comes with a $500 honorarium.\n\n\nGoals\nThis award aims to encourage computational reproducibility efforts in the statistical field and to reward outstanding papers that, by implementing rigorous reproducibility processes, increase access to important data, analytic tools, and workflows for the scientific community. Examples of outstanding reproducibility efforts include, but are not limited to:\n\nWriting reproducible code and analyses\nBuilding research objects (e.g. workflows, software, benchmarks, computational environments, etc) to help others improve reproducibility of their own code and analyses\nGenerating open datasets/software of relevance to the scientific community\nEvaluating the reproducibility of results in the scientific literature\nDeveloping improved reproducibility processes and guidelines\n\n\n\nProcess and Criteria\n\nCriteria for eligibility of the award include\n\nAll papers that are accepted into JASA by December 31 are eligible for the award in the following year at JSM.\n\nProcess for selection of the award:\n\nEach AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.\nIn the spring before JSM, the AERs will eestablish criteria for comparing the nominated papers and each nominated paper will be rated by a randomly chosen subset of the AERs.\nThe AERs will determine the winners by consensus after discussion of top-rated papers.\n\nPost-selection award process:\n\nAERs will notify the winners by May before JSM.\nThe award would be presented at JSM in July or August.\nAuthors of each winning publication will be asked to decide how to split the honorarium.\nPapers from current AERs are not eligible to receive the award."
+    "text": "Overview\nThe JASA Reproducibility Award, established in 2023 by the JASA Editorial board and implemented by the JASA Associate Editors of Reproducibility (AERs), aims to recognize outstanding papers from JASA Applications and Case Studies (ACS) or JASA Theory and Methods (TM) in terms of their computational reproducibility. This award will evaluate the code, data, and the workflow to reproduce the work presented in the paper as part of all invited revisions to Journal of the American Statistical Association (JASA).\nUp to three papers are selected every year by the AERs and an award is presented to the authors during the annual Joint Statistical Meetings (JSM) the following year at Computing and Graphics Joint Section Meeting.\nEach award comes with a $500 honorarium.\n\n\nGoals\nThis award aims to encourage computational reproducibility efforts in the statistical field and to reward outstanding papers that, by implementing rigorous reproducibility processes, increase access to important data, analytic tools, and workflows for the scientific community. Examples of outstanding reproducibility efforts include, but are not limited to:\n\nWriting reproducible code and analyses\nBuilding research objects (e.g. workflows, software, benchmarks, computational environments, etc) to help others improve reproducibility of their own code and analyses\nGenerating open datasets/software of relevance to the scientific community\nEvaluating the reproducibility of results in the scientific literature\nDeveloping improved reproducibility processes and guidelines\n\n\n\nProcess and Criteria\n\nCriteria for eligibility of the award include\n\nAll papers that are accepted into JASA by December 31 are eligible for the award in the following year at JSM.\n\nProcess for selection of the award:\n\nEach AER can nominate at most three papers from the calendar year (e.g. Jan 1 - Dec 31) to be discussed as potential candidates for the award.\nIn the spring before JSM, the AERs will eestablish criteria for comparing the nominated papers and each nominated paper will be rated by a randomly chosen subset of the AERs.\nThe AERs will determine the winners by consensus after discussion of top-rated papers.\n\nPost-selection award process:\n\nAERs will notify the winners by May before JSM.\nThe award would be presented at JSM in July or August.\nAuthors of each winning publication will be asked to decide how to split the honorarium.\nPapers from current AERs are not eligible to receive the award.\n\n\n\n\nSponsors\n\n\n\nASA Section on Statistical Graphics & ASA Section on Statistical Computing\n\n\n\n\n\nPosit"
   }
 ]
